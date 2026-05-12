@@ -1,6 +1,7 @@
 UM POR TODODS
+Bem vindos ao Todos por Um um espaço que vai ser usado para desenvolver Sistema capaz de dividir contas básicas entre moradores de forma individual e 
+igualitária baseada no número de moradores.
 
-Descrição: Sistema capaz de dividir contas básicas entre moradores de forma individual e igualitária baseada no número de moradores.
 Perfis: Morador e Administrador da Casa.
 Requisitos Funcionais:
 Cadastro de moradores na casa.
